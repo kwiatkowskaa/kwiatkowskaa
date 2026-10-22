@@ -1,19 +1,23 @@
-### Hi, I'm Aleksandra Kwiatkowska
----
+## Hi, I'm Aleksandra 👋
 
-Data Scientist with a BSc and MSc in Data Science from **Warsaw University of Technology**. I build machine learning, deep learning and data engineering projects, from research experiments to tested, reusable packages. I work across the data science stack: from machine learning and time-series forecasting, through deep-learning interpretability and unsupervised learning, to data warehousing and BI.
-
-
-## Projects
-
-**[Ficaria](https://github.com/team-ficaria/ficaria)**
-*scikit-learn-compatible fuzzy imputation and feature selection, published on PyPI*
-
-**[Power Outage Prediction](https://github.com/kwiatkowskaa/PowerOutage_Prediction)**
-*Weather-driven outage forecasting with XGBoost, TabNet and SARIMAX (4th place in an ML competition)*
+Data Scientist with a BSc in Data Science from **Warsaw University of Technology**.
+I work across the full breadth of data science: machine learning, deep learning, explainable AI, big data analysis and cloud computing.
+ 
+For me, the best part of data science is the whole journey: exploring the problem, building models and validating the results.
 
 ---
+### Featured Projects
 
-## Tech
+🌟 **[Ficaria](https://github.com/team-ficaria/ficaria)** · **bachelor's thesis, published on PyPI**
+<br>*scikit-learn-compatible transformers for missing-data imputation and feature selection based on fuzzy set theory*
+ 
+⚡ **[Power Outage Prediction](https://github.com/kwiatkowskaa/PowerOutage_Prediction)** · **4th place in an ML competition**
+<br>*Weather-driven outage forecasting across US counties with XGBoost, TabNet and SARIMAX*
+ 
+🌿 **[FloraMatch](https://github.com/malgosiam2/FloraMatch)** · **cloud computing project**
+<br>*Cloud-native plant recommendation app on Google Cloud with Terraform and Vertex AI*
 
-`Python` `R` `SQL` · `scikit-learn` `XGBoost` `TabNet` `pandas` `NumPy` `SciPy` · `SSIS` `OLAP` · `Git` `pytest` `Jupyter`
+---
+### More Projects
+
+[Logit Lens for Vision Transformers](https://github.com/kwiatkowskaa/VisualLogitLens) · [Fire Brigade Interventions BI](https://github.com/kwiatkowskaa/DW_BI_Interventions_Analysis) · [Location Intelligence Clustering](https://github.com/kwiatkowskaa/Location_Intelligence_Data_Clustering)
