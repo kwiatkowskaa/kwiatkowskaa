@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Aleksandra Kwiatkowska
+---
 
-<!--
-**kwiatkowskaa/kwiatkowskaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist with a BSc and MSc in Data Science from **Warsaw University of Technology**. I build machine learning, deep learning and data engineering projects, from research experiments to tested, reusable packages. I work across the data science stack: from machine learning and time-series forecasting, through deep-learning interpretability and unsupervised learning, to data warehousing and BI.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**[Ficaria](https://github.com/team-ficaria/ficaria)**
+*scikit-learn-compatible fuzzy imputation and feature selection, published on PyPI*
+
+**[Power Outage Prediction](https://github.com/kwiatkowskaa/PowerOutage_Prediction)**
+*Weather-driven outage forecasting with XGBoost, TabNet and SARIMAX (4th place in an ML competition)*
+
+---
+
+## Tech
+
+`Python` `R` `SQL` · `scikit-learn` `XGBoost` `TabNet` `pandas` `NumPy` `SciPy` · `SSIS` `OLAP` · `Git` `pytest` `Jupyter`
