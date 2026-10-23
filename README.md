@@ -1,9 +1,7 @@
 ## Hi, I'm Aleksandra 👋
 
 Data Scientist with a BSc in Data Science from **Warsaw University of Technology**.
-I work across the full breadth of data science: machine learning, deep learning, explainable AI, big data analysis and cloud computing.
- 
-For me, the best part of data science is the whole journey: exploring the problem, building models and validating the results.
+I work across the full breadth of data science: machine learning, deep learning, explainable AI and big data analysis.
 
 ---
 ### Featured Projects
