@@ -1,7 +1,6 @@
 ## Hi, I'm Aleksandra 👋
 
-Data Scientist with a BSc in Data Science from **Warsaw University of Technology**.
-I work across the full breadth of data science: machine learning, deep learning, explainable AI and big data analysis.
+Data Scientist with a BSc in Data Science from **Warsaw University of Technology**, currently pursuing my MSc. I'm passionate about exploring and growing across different areas of data science, with a particular interest in machine learning, especially clustering, as well as explainable AI, NLP, and big data analytics. I'm always eager to learn, experiment with new ideas, and take on new challenges.
 
 ---
 ### Featured Projects
